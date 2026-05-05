@@ -1,0 +1,14 @@
+Inicio
+	Entero n, res, cant
+	Leer n
+	cant = 0
+	res = n
+	Mientras res != 0
+		res = res /10
+		cant = cant + 1
+	Fin mientras
+	
+
+
+
+Fin
